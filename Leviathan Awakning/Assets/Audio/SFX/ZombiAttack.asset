@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91a17ffda2c744842af04bb33f69e1e0, type: 3}
+  m_Name: ZombiAttack
+  m_EditorClassIdentifier: 
+  name: ZombiAttack
+  clip: {fileID: 8300000, guid: 578a9d61625607348a291001b2aae8df, type: 3}
+  volume: 0.25
+  loop: 0
+  mixerGroup: {fileID: 243731077581678198, guid: 953f92c97f92cbd47b8523b31e6085e5,
+    type: 2}
+  playInAudioManager: 1
+  source: {fileID: 0}
