@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f875689c-1e37-4479-acac-af35cebd193a" name="Default Changelist" comment="" />
+    <list default="true" id="f875689c-1e37-4479-acac-af35cebd193a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Leviathan awakning/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Leviathan awakning/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Leviathan awakning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Leviathan awakning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Axe/AxeCreate.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Axe/AxeCreate.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Axe/AxeRotation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Axe/AxeRotation.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/Enemy.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyBoss.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/EnemyBoss.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enemy/SpawnEnemies.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enemy/SpawnEnemies.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enviorment/DragonStatueFire.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enviorment/DragonStatueFire.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enviorment/EndGameArea.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enviorment/EndGameArea.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enviorment/MoveTarget.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enviorment/MoveTarget.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Enviorment/TargetHp.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Enviorment/TargetHp.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CameraCollision.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CameraCollision.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/CreateFireball.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/CreateFireball.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAnimationEvents.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerAnimationEvents.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/UI/StartMenu.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/UI/StartMenu.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +31,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Shader/ObjectDisappear.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/StartMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/UIScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/SetVolume.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/MusicPlay.cs" root0="FORCE_HIGHLIGHTING" />
@@ -64,6 +83,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/Player/CameraCollision.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/StartMenu.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Enviorment/TargetHp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/UIScript.cs" />
       </list>
     </option>
   </component>
@@ -124,6 +144,9 @@
       <workItem from="1579257563619" duration="15547000" />
       <workItem from="1579432837520" duration="5561000" />
       <workItem from="1580124633717" duration="864000" />
+      <workItem from="1580513772944" duration="10469000" />
+      <workItem from="1581511931793" duration="144000" />
+      <workItem from="1583582325346" duration="102000" />
     </task>
     <servers />
   </component>
